@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE service-builder PUBLIC "-//Liferay//DTD Service Builder 6.2.0//EN" "http://www.liferay.com/dtd/liferay-service-builder_6_2_0.dtd">
+<service-builder package-path="home.testing">
+	<author>LMendes</author>
+	<namespace>PortugueseProfessionalCodes</namespace>
+
+	<entity name="ProfessionalCodes" local-service="true"
+		remote-service="false" table="IEFP_ProfessionalCodes">
+
+		<!-- PK fields -->
+
+		<column name="professionalCodesId" type="int" primary="true" id-type="increment"></column>
+        
+        <!-- fields -->
+        <column name="level" type="int"></column>
+        <column name="code" type="String"></column>
+        <column name="designation" type="String"></column>
+		
+	</entity>
+</service-builder>

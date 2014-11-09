@@ -1,0 +1,7 @@
+<classpath>
+  <container id="TreeSelect-portlet!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="/home/luis/git/HomemadeTestings/liferay-plugins-sdk-6.2/portlets/TreeSelect-portlet/docroot/WEB-INF/lib/TreeSelect-portlet-service.jar">
+      <source-attachment-path>/TreeSelect-portlet/docroot/WEB-INF/service</source-attachment-path>
+    </entry>
+  </container>
+</classpath>

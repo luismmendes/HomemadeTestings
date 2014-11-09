@@ -1,0 +1,14 @@
+package home.testing.actions;
+
+import com.liferay.portal.kernel.events.ActionException;
+import com.liferay.portal.kernel.events.SimpleAction;
+
+public class PopulateData extends SimpleAction {
+
+	@Override
+	public void run(String[] ids) throws ActionException {
+		// TODO Auto-generated method stub
+
+	}
+
+}

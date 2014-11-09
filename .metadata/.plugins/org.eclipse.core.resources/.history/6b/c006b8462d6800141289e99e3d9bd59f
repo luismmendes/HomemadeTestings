@@ -1,0 +1,5 @@
+release.info.build.number=101
+release.info.previous.build.number=100
+
+upgrade.processes=\
+    home.testing.action.PopulateData_1_0_1

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="home.testing.model.ProfessionalCodes">
+		<field name="professionalCodesId" type="long" />
+		<field name="level" type="int" />
+		<field name="code" type="String" />
+		<field name="designation" type="String" />
+	</model>
+</model-hints>

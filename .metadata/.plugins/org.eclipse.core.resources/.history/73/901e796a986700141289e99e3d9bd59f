@@ -1,0 +1,6 @@
+create table IEFP_ProfessionalCodes (
+	professionalCodesId LONG not null primary key,
+	level INTEGER,
+	code_ VARCHAR(75) null,
+	designation VARCHAR(75) null
+);

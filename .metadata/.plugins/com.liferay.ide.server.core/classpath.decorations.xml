@@ -1,0 +1,22 @@
+<classpath>
+  <container id="resources-importer-web-6.2.x!com.liferay.ide.eclipse.server.plugin.container/web">
+    <entry id="/opt/liferay/liferay-portal-6.2-ce-ga2/tomcat-7.0.42/webapps/ROOT/WEB-INF/lib/util-taglib.jar">
+      <source-attachment-path>/opt/liferay/liferay-portal-src-6.2-ce-ga2-20140319114139101.zip</source-attachment-path>
+      <attribute name="javadoc_location">jar:file:/opt/liferay/liferay-portal-doc-6.2-ce-ga2-20140321115737138.zip!/liferay-portal-doc-6.2-ce-ga2/javadocs-all/</attribute>
+    </entry>
+    <entry id="/opt/liferay/liferay-portal-6.2-ce-ga2/tomcat-7.0.42/webapps/ROOT/WEB-INF/lib/util-java.jar">
+      <source-attachment-path>/opt/liferay/liferay-portal-src-6.2-ce-ga2-20140319114139101.zip</source-attachment-path>
+      <attribute name="javadoc_location">jar:file:/opt/liferay/liferay-portal-doc-6.2-ce-ga2-20140321115737138.zip!/liferay-portal-doc-6.2-ce-ga2/javadocs-all/</attribute>
+    </entry>
+    <entry id="/opt/liferay/liferay-portal-6.2-ce-ga2/tomcat-7.0.42/webapps/ROOT/WEB-INF/lib/commons-logging.jar">
+      <attribute name="javadoc_location">jar:file:/opt/liferay/liferay-portal-doc-6.2-ce-ga2-20140321115737138.zip!/liferay-portal-doc-6.2-ce-ga2/javadocs-all/</attribute>
+    </entry>
+    <entry id="/opt/liferay/liferay-portal-6.2-ce-ga2/tomcat-7.0.42/webapps/ROOT/WEB-INF/lib/log4j.jar">
+      <attribute name="javadoc_location">jar:file:/opt/liferay/liferay-portal-doc-6.2-ce-ga2-20140321115737138.zip!/liferay-portal-doc-6.2-ce-ga2/javadocs-all/</attribute>
+    </entry>
+    <entry id="/opt/liferay/liferay-portal-6.2-ce-ga2/tomcat-7.0.42/webapps/ROOT/WEB-INF/lib/util-bridges.jar">
+      <source-attachment-path>/opt/liferay/liferay-portal-src-6.2-ce-ga2-20140319114139101.zip</source-attachment-path>
+      <attribute name="javadoc_location">jar:file:/opt/liferay/liferay-portal-doc-6.2-ce-ga2-20140321115737138.zip!/liferay-portal-doc-6.2-ce-ga2/javadocs-all/</attribute>
+    </entry>
+  </container>
+</classpath>

@@ -1,0 +1,17 @@
+Buildfile: /home/luis/git/HomemadeTestings/liferay-plugins-sdk-6.2/portlets/TreeSelect-portlet/build.xml
+all:
+clean:
+        [echo] Loading jar:file:/opt/liferay/liferay-portal-6.2-ce-ga2/tomcat-7.0.42/webapps/ROOT/WEB-INF/lib/portal-impl.jar!/system.properties
+     [echo] Loading jar:file:/opt/liferay/liferay-portal-6.2-ce-ga2/tomcat-7.0.42/webapps/ROOT/WEB-INF/lib/portal-impl.jar!/portal.properties
+     [echo] Loading file:/opt/liferay/liferay-portal-6.2-ce-ga2/tomcat-7.0.42/webapps/ROOT/WEB-INF/classes/portal-ext.properties
+     [echo] Loading jar:file:/opt/liferay/liferay-portal-6.2-ce-ga2/tomcat-7.0.42/webapps/ROOT/WEB-INF/lib/portal-impl.jar!/com/liferay/portal/tools/dependencies/portal-tools.properties
+     [echo] Building ProfessionalCodes
+     [echo] Writing /home/luis/git/HomemadeTestings/liferay-plugins-sdk-6.2/portlets/TreeSelect-portlet/docroot/WEB-INF/src/home/testing/model/impl/ProfessionalCodesModelImpl.java
+    [mkdir] Created dir: /home/luis/git/HomemadeTestings/liferay-plugins-sdk-6.2/portlets/TreeSelect-portlet/docroot/WEB-INF/service-classes
+     [copy] Copied 6 empty directories to 6 empty directories under /home/luis/git/HomemadeTestings/liferay-plugins-sdk-6.2/portlets/TreeSelect-portlet/docroot/WEB-INF/service-classes
+    [javac] Compiling 15 source files to /home/luis/git/HomemadeTestings/liferay-plugins-sdk-6.2/portlets/TreeSelect-portlet/docroot/WEB-INF/service-classes
+      [zip] Building zip: /home/luis/git/HomemadeTestings/liferay-plugins-sdk-6.2/portlets/TreeSelect-por     [java] Parsed /home/luis/git/HomemadeTestings/liferay-plugins-sdk-6.2/portlets/TreeSelect-portlet/docroot/css/main.css in 33472 ms
+      [zip] Building zip: /home/luis/git/HomemadeTestings/liferay-plugins-sdk-6.2/dist/TreeSelect-portlet-6.2.0.1.war
+     [copy] Copying 1 file to /opt/liferay/liferay-portal-6.2-ce-ga2/deploy
+BUILD SUCCESSFUL
+Total time: 1 minute

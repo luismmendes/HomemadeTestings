@@ -1,0 +1,7 @@
+package home.testing.actions;
+
+import com.liferay.portal.kernel.upgrade.UpgradeProcess;
+
+public class PopulateData_1_0_1 extends UpgradeProcess {
+
+}
